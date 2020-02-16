@@ -15,5 +15,5 @@ This project will read PlatformWellActual API data and save to database and load
  8. Give the API url: http://test-demo.aem-enersol.com/api/PlatformWell/GetPlatformWellActual
  9. Click the button "Save API Data and Load"
  10. Button click event will read the API data and save to database and Load the data into table.
- 11. If you give wrong url which entities are not matching then an alert will show
+ 11. If you give wrong url like http://test-demo.aem-enersol.com/api/PlatformWell/GetPlatformWellDummy which entities are not matching then an alert will show
  12. SQL query named "LastUpdatedWellForEachPlatformQuery.sql" which will return last updated well for each platform.
