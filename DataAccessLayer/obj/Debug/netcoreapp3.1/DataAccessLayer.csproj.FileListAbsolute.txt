@@ -1,0 +1,26 @@
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+G:\Projects\APIConsume\FinalProject\PlatformWell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+G:\Projects\.Net\.Net Core\APIRead\platformwell\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

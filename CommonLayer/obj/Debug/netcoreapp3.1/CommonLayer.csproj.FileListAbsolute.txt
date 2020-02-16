@@ -1,0 +1,15 @@
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+G:\Projects\APIConsume\FinalProject\PlatformWell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\Projects\.Net\.Net Core\APIRead\platformwell\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache

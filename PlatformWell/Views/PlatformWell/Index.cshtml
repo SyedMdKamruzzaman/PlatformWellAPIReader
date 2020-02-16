@@ -1,0 +1,132 @@
+﻿@model CommonLayer.DTO.ViewModel.PlatformWellViewModel
+
+@{
+    ViewData["Title"] = "Platform Well Data";
+
+    if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <script type="text/javascript">
+        alert("@ViewBag.Message");
+        </script>
+    }
+}
+
+<h4>Platform Well API URL</h4>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="SaveAPIDataAndLoad">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PlatformWellActual.Url" class="control-label"></label>
+                <input asp-for="PlatformWellActual.Url" class="form-control" />
+                <span asp-validation-for="PlatformWellActual.Url" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save API Data and Load" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<p>
+    <b> Platform List</b>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Platform Name
+            </th>
+            <th>
+                Latitude
+            </th>
+            <th>
+                Longitude
+            </th>
+            <th>
+                Created At
+            </th>
+            <th>
+                Updated At
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Platforms)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.uniqueName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.latitude)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.longitude)
+                </td>
+                <td>
+                    @Convert.ToDateTime(item.createdAt).ToString("dd-MMM-yyyy hh:mm:ss tt")
+                </td>
+                <td>
+                    @Convert.ToDateTime(item.updatedAt).ToString("dd-MMM-yyyy hh:mm:ss tt")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<br />
+
+<p>
+    <b> Well List</b>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Platform Name
+            </th>
+            <th>
+                Well Name
+            </th>
+            <th>
+                Latitude
+            </th>
+            <th>
+                Longitude
+            </th>
+            <th>
+                Created At
+            </th>
+            <th>
+                Update At
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Wells)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlatformName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.uniqueName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.latitude)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.longitude)
+            </td>
+            <td>
+                @Convert.ToDateTime(item.createdAt).ToString("dd-MMM-yyyy hh:mm:ss tt")
+            </td>
+            <td>
+                @Convert.ToDateTime(item.updatedAt).ToString("dd-MMM-yyyy hh:mm:ss tt")
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
